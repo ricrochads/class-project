@@ -1,4 +1,5 @@
 namespace Conversions;
+
 public class Conversion
 {
     public void ConvertAndParse()
