@@ -12,7 +12,7 @@
 ### Functions
 ### Functions Parameters
 
-## Module 03 (Estrutura de dados)
+## Module 03
 ### Array List
 ### Typed Array
 ### String Array
@@ -21,7 +21,7 @@
 ### Queue
 ### Stack
 
-## Module 04 (Estrutura de controle)
+## Module 04
 ### If/Else If/Else
 ### Switch
 ### For
