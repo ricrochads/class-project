@@ -1,4 +1,5 @@
 # Class Project
+This project aims for the practical application of the fundamentals of the C# programming language.
 
 ## Module 01
 ### Variables
