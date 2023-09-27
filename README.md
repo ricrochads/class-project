@@ -3,6 +3,27 @@ This project aims for the practical application of the fundamentals of the C# pr
 
 ## Module 01
 ### Variables
+A variable in C# is a memory space reserved for storing data. Variables are used to store information that can be manipulated and utilized in a program. In C#, variables need to be declared with a specific data type before they can be used.
+Some examples of variables in C#:
+
+#### String
+```csharp
+string name = "Ricardo Rocha";
+```
+
+#### Integer (int):
+
+#### Floating-point(float)
+
+
+#### Boolean (bool)
+
+#### Character (char)
+
+#### Date (DateTime)
+
+
+
 ### Constants
 ### Arithmetic Operators
 ### Relational Operators
