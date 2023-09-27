@@ -18,10 +18,16 @@ int dogAge = 5;
 Console.WriteLine("Age: " + dogAge);
 ```
 
+#### Double
+``` csharp
+double  = 8.2;
+Console.WriteLine("Weight: " + dogWeight);
+```
+
 #### Floating-point (float)
 ``` csharp
-float dogWeight = 8.2f;
-Console.WriteLine("Weight: " + dogWeight);
+float dogHeight = 0.25f;
+Console.WriteLine("Dog height: " + dogHeight + " meters");
 ```
 
 #### Boolean (bool)
