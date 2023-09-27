@@ -8,21 +8,39 @@ Some examples of variables in C#:
 
 #### String
 ``` csharp
-string name = "Ricardo Rocha";
+string dogName = "Panda";
+Console.WriteLine("Dog name: " + dogName);
 ```
 
 #### Integer (int):
+``` csharp
+int dogAge = 5;
+Console.WriteLine("Age: " + dogAge);
+```
 
 #### Floating-point(float)
-
+``` csharp
+float dogWeight = 8.2f;
+Console.WriteLine("Weight: " + dogWeight);
+```
 
 #### Boolean (bool)
+``` csharp
+bool isVaccinated = true;
+Console.WriteLine("Is vaccinated? " + isVaccinated);
+```
 
 #### Character (char)
+``` csharp
+char letter = 'P';
+Console.WriteLine("Letter: " + letter);
+```
 
 #### Date (DateTime)
-
-
+``` csharp
+DateTime dogBirthDate = new DateTime(2017, 11, 9);
+Console.WriteLine("BirthDate: " + dogBirthDate.ToShortDateString());
+```
 
 ### Constants
 ### Arithmetic Operators
