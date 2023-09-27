@@ -49,6 +49,12 @@ Console.WriteLine("BirthDate: " + dogBirthDate.ToShortDateString());
 ```
 
 ### Constants
+Constants are fields and locations whose values are fixed and cannot be changed once they have been defined. 
+These values can be numbers, boolean values, strings or a null reference.
+``` csharp
+const string description = "CSharp Course";
+Console.WriteLine("Const string: " + description);
+```
 ### Arithmetic Operators
 ### Relational Operators
 ### Logical Operators
