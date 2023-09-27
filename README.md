@@ -7,7 +7,7 @@ A variable in C# is a memory space reserved for storing data. Variables are used
 Some examples of variables in C#:
 
 #### String
-```csharp
+```c#
 string name = "Ricardo Rocha";
 ```
 
