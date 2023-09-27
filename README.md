@@ -20,7 +20,7 @@ Console.WriteLine("Age: " + dogAge);
 
 #### Double
 ``` csharp
-double  = 8.2;
+double dogWeight = 8.2;
 Console.WriteLine("Weight: " + dogWeight);
 ```
 
