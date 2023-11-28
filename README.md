@@ -12,7 +12,7 @@ string dogName = "Panda";
 Console.WriteLine("Dog name: " + dogName);
 ```
 
-#### Integer (int):
+#### Integer (int)
 ``` csharp
 int dogAge = 5;
 Console.WriteLine("Age: " + dogAge);
@@ -56,6 +56,28 @@ const string description = "CSharp Course";
 Console.WriteLine("Const string: " + description);
 ```
 ### Arithmetic Operators
+The mathematical operations are executed with special symbols, arithmetic operators, on variables and values that allow it to perform common operations such as addition, subtraction, multiplication and division. The main arithmetic operators in C# are:
+
+#### Addition (+)
+``` csharp
+int result = 1 + 2;
+```
+
+#### Subtraction (-)
+``` csharp
+int result = 3 - 4;
+```
+
+#### Multiplication (*)
+``` csharp
+int result = 5 * 6;
+```
+
+#### Division (/)
+``` csharp
+int result = 7 / 2;
+```
+
 ### Relational Operators
 ### Logical Operators
 ### Ternary Operators
