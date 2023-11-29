@@ -102,3 +102,51 @@ int result = 7 / 2;
 ### Foreach
 ### While/Do While
 ### Break/Continue
+
+## Module 05
+### Inheritance
+### Sealed Class
+### Abstract Class
+### Record
+### Interface
+
+## Module 06
+### Convert/Parse
+### TryParse
+
+# Module 07
+## ToLower
+## ToUpper
+## Substring / Range
+## Contains
+## Trim, TrimEnd e TrimStart
+## StartWith e EndsWith
+## Replace
+## Length
+
+# Module 08
+## DateTime
+## Subtracting dates
+## Adding day, month and year
+## Adding hours, minutes and seconds
+## Retrieving day of the week
+## DataOnly
+## TimeOnly
+
+## Module 09
+## What is an exception?
+## Generating an exception
+## Handling an exception
+
+# Module 10
+## Creating a file
+## Reading a file
+## Deleting a file
+
+# Module 11
+## Introdução ao LINQ
+## Where
+## Order By
+## Take
+## Count
+## FirstOrDefault
