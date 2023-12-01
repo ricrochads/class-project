@@ -79,6 +79,50 @@ int result = 7 / 2;
 ```
 
 ### Relational Operators
+Relational Operators are used to comparing two variables and return a boolean value (true or false). Here are the main ones:
+
+#### Equal to (==)
+``` csharp
+int a = 1;
+int b = 2;
+bool result = (a == b); // result will be false
+```
+
+#### Not equal to (!=)
+``` csharp
+int a = 1;
+int b = 2;
+bool result = (a != b); // result will be true
+```
+
+#### Greater than (>)
+``` csharp
+int a = 40;
+int b = 5;
+bool result = (a > b); // result will be true
+```
+
+#### Less than (<)
+``` csharp
+int a = 5;
+int b = 40;
+bool result = (a < b); // result will be true
+```
+
+#### Greater than or equal to (>=)
+``` csharp
+int a = 30;
+int b = 30;
+bool result = (a >= b); // result will be true
+```
+
+#### Less than or equal to (<=)
+``` csharp
+int a = 5;
+int b = 10;
+bool result = (a <= b); // result will be true
+```
+
 ### Logical Operators
 ### Ternary Operators
 
@@ -114,39 +158,39 @@ int result = 7 / 2;
 ### Convert/Parse
 ### TryParse
 
-# Module 07
-## ToLower
-## ToUpper
-## Substring / Range
-## Contains
-## Trim, TrimEnd e TrimStart
-## StartWith e EndsWith
-## Replace
-## Length
+## Module 07
+### ToLower
+### ToUpper
+### Substring / Range
+### Contains
+### Trim, TrimEnd e TrimStart
+### StartWith e EndsWith
+### Replace
+### Length
 
-# Module 08
-## DateTime
-## Subtracting dates
-## Adding day, month and year
-## Adding hours, minutes and seconds
-## Retrieving day of the week
-## DataOnly
-## TimeOnly
+## Module 08
+### DateTime
+### Subtracting dates
+### Adding day, month and year
+### Adding hours, minutes and seconds
+### Retrieving day of the week
+### DataOnly
+### TimeOnly
 
 ## Module 09
-## What is an exception?
-## Generating an exception
-## Handling an exception
+### What is an exception?
+### Generating an exception
+### Handling an exception
 
-# Module 10
-## Creating a file
-## Reading a file
-## Deleting a file
+## Module 10
+### Creating a file
+### Reading a file
+### Deleting a file
 
-# Module 11
-## Introdução ao LINQ
-## Where
-## Order By
-## Take
-## Count
-## FirstOrDefault
+## Module 11
+### Introdução ao LINQ
+### Where
+### Order By
+### Take
+### Count
+### FirstOrDefault
