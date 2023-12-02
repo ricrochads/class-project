@@ -124,6 +124,29 @@ bool result = (a <= b); // result will be true
 ```
 
 ### Logical Operators
+Used to perform logical operations with boolean operands. Common logical operators include:
+
+#### Operador AND (&&)
+``` csharp
+int number1 = 1;
+var number2 = 2;
+var result1 = number2 > number1 && 6 < 7; // result will be true
+```
+
+#### Operador OR (||)
+``` csharp
+int number1 = 1;
+var number2 = 2;
+var result2 = number2 > number1 || 8 > 10; // result will be true
+```
+
+#### Operador NOT (!)
+``` csharp
+int number1 = 1;
+var number2 = 2;
+var result3 = !(number2 > 3); // result will be true
+```
+
 ### Ternary Operators
 
 ## Module 02
