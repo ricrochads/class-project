@@ -148,6 +148,11 @@ var result3 = !(number2 > 3); // result will be true
 ```
 
 ### Ternary Operators
+It's a resource for validating a condition that must be true or false. The general syntax of the ternary operator is as follows:
+
+``` csharp
+result = (condition) ? valueIfTrue : valueIfFalse;
+```
 
 ## Module 02
 ### Functions
