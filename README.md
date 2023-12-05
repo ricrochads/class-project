@@ -156,6 +156,15 @@ result = condition ? valueIfTrue : valueIfFalse;
 
 ## Module 02
 ### Functions
+Functions, also known as methods, are blocks of code that perform a specific task and provide structure, organization and code reuse. Below is a basic structure of a function:
+
+``` csharp
+static void Main()
+{
+  Console.WriteLine($"Name: Ricardo");
+}
+```
+
 ### Functions Parameters
 
 ## Module 03
