@@ -183,7 +183,7 @@ public string FullName()
 The parameters of a function are pieces of information that are passed to the function so that it can process or manipulate the data in some way according to the logic defined. Here is a simple example of a function with parameters:
 
 ``` csharp
-static int Somar(int a, int b)
+static int Sum(int a, int b)
 {
     return a + b;
 }
