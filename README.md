@@ -191,6 +191,12 @@ static int Sum(int a, int b)
 
 ## Module 03
 ### Array List
+A feature of the C# language, the ArrayList is a non-generic collection type used to create arrays with dynamic sizes and maintains the order of the elements. 
+Simple ArrayList example:
+``` csharp
+var arrayList = new ArrayList { 1, "A", true };
+```
+
 ### Typed Array
 ### String Array
 ### Lists
